@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taihievai.glimpseframework.org/sitemap.xml
